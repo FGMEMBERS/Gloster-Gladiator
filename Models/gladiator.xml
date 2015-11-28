@@ -769,7 +769,7 @@
   
   <!-- Ajout des effets lumineux -->
   <model>
-    <path>Aircraft/Gloster-Meteor/Models/lights/beacon.xml</path>
+    <path>Aircraft/Gloster-Gladiator/Models/lights/beacon.xml</path>
     <offsets>
       <x-m> 1.55724 </x-m>
       <y-m> 0.00000 </y-m>
@@ -778,7 +778,7 @@
   </model>
   
   <model>
-    <path>Aircraft/Gloster-Meteor/Models/lights/RedLight.xml</path>
+    <path>Aircraft/Gloster-Gladiator/Models/lights/RedLight.xml</path>
     <offsets>
       <x-m> -2.86163 </x-m>
       <y-m> -4.17329 </y-m>
@@ -787,7 +787,7 @@
   </model>
   
   <model>
-    <path>Aircraft/Gloster-Meteor/Models/lights/GreenLight.xml</path>
+    <path>Aircraft/Gloster-Gladiator/Models/lights/GreenLight.xml</path>
     <offsets>
       <x-m> -2.86163 </x-m>
       <y-m>  4.17329 </y-m>
@@ -797,7 +797,7 @@
   
   <model>
     <name>LampeBlanche</name>
-    <path>Aircraft/Gloster-Meteor/Models/lights/WhiteLight.xml</path>
+    <path>Aircraft/Gloster-Gladiator/Models/lights/WhiteLight.xml</path>
     <offsets>
       <x-m> 4.13214 </x-m>
       <y-m> 0.00000 </y-m>
